@@ -1,4 +1,10 @@
-# Bakery Business Manager
+# Bakery Business Management System
 A Python based Bakery Business Management System
 
-THIS PROJECT HELPS A BAKERY OWNER TO TAKE UP ORDERS, MODIFY MENU, CALCULATE BILL, ADD OR REMOVE ITEAMS AND CALCULATE THEIR DAILY EARNINGS 
+This project helps a Bakery owner :
+-- To take up orders
+-- Modify the menu
+-- Add or Remove items
+-- Calculate a detailed Bill 
+-- Calculate Daily Earnings
+
